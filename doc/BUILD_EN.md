@@ -11,7 +11,7 @@
 6. [Troubleshoot](#6-Troubleshoot)
 
 ## 1. Preparation
-### 1.1 What to need
+### 1.1 Additional Required
 ![](./img/IMG_8596.jpg)
 <table>
     <tr>
@@ -19,223 +19,217 @@
         <td>22</td>
     </tr>
     <tr>
-        <td><a href="https://shop.yushakobo.jp/products/dsa-blank-keycaps">キースイッチに対応したキーキャップ</a></td>
+        <td>Keycaps</a></td>
         <td>22</td>
     </tr>
     <tr>
-        <td><a href="https://amzn.to/3XS9qRu">データ転送に対応したType-C USBケーブル</a></td>
+        <td>Type-C USB Cable</td>
         <td>1</td>
     </tr>
  </table>
 
-#### 別売オプション
+#### Optional
 <table>
     <tr>
-      <td><a href="https://shop.yushakobo.jp/products/sk6812mini-e-10">LED（SK6812MINI-E）</a></td>
+      <td>SK6812MINI-E</td>
       <td>22</td>
     </tr>
     <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/7544767">専用リストレスト</a></td>
+      <td><a href="https://tarohayashi.booth.pm/items/7544767">Wrist rest</a></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://tarohayashi.booth.pm/items/7544767">Cintiq Pro用インチネジアダプター</a></td>
+      <td><a href="https://tarohayashi.booth.pm/items/7544767">Adaptor for Cintiq Pro</a></td>
       <td></td>
     </tr>
  </table>
 
-### 1.2 必要な工具
+### 1.2 Tools required
 ![](./img/IMG_8619.jpg)
 <table>
     <tr>
-      <td><a href="https://amzn.to/4rlr3qf">はんだごて</a></td>
-      <td><a href="https://amzn.to/4ahMGlf">はんだ</a></td>
-      <td><a href="https://amzn.to/4rlqTiD">マスキングテープ</a></td>
+      <td>Soldering iron</td>
+      <td>Soldering wire</td>
+      <td>Masking tape</td>
     </tr>
     <tr>
-      <td><a href="https://amzn.to/3M2pNsb">ニッパー</a></td>
-      <td><a href="https://amzn.to/44etOjB">ピンセット</a></td>
-      <td><a href="https://amzn.to/48pxS1B0">精密ドライバー</a></td>
+      <td>Nipper</td>
+      <td>Twezers</td>
+      <td>Screwdriver</td>
     </tr>
  </table>
 
-#### あると便利な工具
+#### Tools optional
 <table>
     <tr>
-        <td><a href="https://amzn.to/4rCpzs6">耐熱マット</a></td>
-        <td><a href="https://amzn.to/483c5hd">温調はんだごて</a></td>
-        <td><a href="https://amzn.to/4pwC0DN">平らなこて先</a></td>
+        <td>Heat-resistant mat</td>
+        <td>Temperature-controlled soldering iron</td>
+        <td>C-type trowel tip</td>
     </tr>
     <tr>
-        <td><a href="https://amzn.to/3XmBn3J">フラックス</a></td>
-        <td><a href="https://amzn.to/4ijJgjU">フラックスクリーナー</a></td>
-        <td><a href="https://amzn.to/4rsriA8">はんだ吸い取り線</a></td>
+        <td>flux</td>
+        <td>IPA</td>
+        <td>Desoldering wire</td>
     </tr>
     <tr>
-        <td><a href="https://amzn.to/4ro5VQg">テスター</a></td>
+        <td>Multimater</td>
     </tr>
  </table>
 
-## 2. 内容品の確認
-いくつかの袋に分かれて梱包されています。
+## 2.  Verification of Contents
+It is packaged in several separate bags.
 ![](./img/IMG_9317.jpg)
 
-### 袋1: 実装部品
+### Bag 1: Implementation Components
 ![](./img/IMG_9366.jpg)
 <table>
     <tr>
-        <th>番号</th>
-        <th>部品名（保守品リンク）</th>
-        <th>数量</th>
-        <th></th>
-    </tr>
-    <tr>
         <td>1</td>
-        <td><a href="https://www.monotaro.com/p/5055/2206">10mmネジ</a></td>
+        <td>10mm screw</td>
         <td>2</td>
         <td>M2x10mm</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="https://www.monotaro.com/p/5055/4884/">8mmネジ</a></td>
+        <td>8mm screw</td>
         <td>2</td>
         <td>M2x8mm</td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="https://www.monotaro.com/p/2876/3414/">ナット</a></td>
+        <td>Nuts</td>
         <td>4</td>
         <td>M2</td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https://shop.yushakobo.jp/products/a0800di-01-100">ダイオード</a></td>
+        <td>Diodes</td>
         <td>28</td>
         <td>1N4148</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https://shop.yushakobo.jp/products/a01ps">MXスイッチソケット</a></td>
+        <td>MX sockets</td>
         <td>22</td>
         <td></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g108073">リセットボタン</a></td>
+        <td>Reset button</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g115703/">スライドスイッチ</a></td>
+        <td>Slide switch</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>8</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g114890/">サイドボタン</a></td>
+        <td>Side button</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>9</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g108071/">レバーボタン</a></td>
+        <td>Lever button</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>10</td>
-        <td><a href="https://shop.yushakobo.jp/products/3762?variant=46240750436583">ロータリーエンコーダー</a></td>
+        <td>Rotary Encoder</td>
         <td>1</td>
         <td>EC11 15mm</td>
     </tr>
     <tr>
         <td>11</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g100167/">ピンヘッダー</a></td>
+        <td>Pin header</td>
         <td>1</td>
-        <td>40ピン</td>
+        <td>40 Pins</td>
     </tr>
     <tr>
         <td>12</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g103687/">ジャンパーピン</a></td>
+        <td>Jumper pins</td>
         <td>2</td>
         <td></td>
     </tr>
     <tr>
         <td>13</td>
-        <td><a href="https://shop.yushakobo.jp/products/10947">RP2040-Zero</a></td>
+        <td>RP2040-Zero</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>14</td>
-        <td><a href="https://amzn.to/48ChY56">ゴム足</a></td>
+        <td>Rubber feet</td>
         <td>5</td>
         <td></td>
     </tr>
     <tr>
         <td>15</td>
-        <td>マイコンスペーサー</td>
+        <td>Micro Controller Spacer</td>
         <td>1</td>
-        <td>色はランダムです。</td>
+        <td>Color is random.</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>マイコンクリップ</td>
+        <td>Micro Controller Clip</td>
         <td>1</td>
-        <td>色はランダムです。</td>
+        <td>Color is random.</td>
     </tr>
  </table>
 
-### 袋2: 基板とケース
+### Bag 2: Circuit board and case
 ![](./img/IMG_9378.jpg)
 <table>
     <tr>
         <td>1</td>
-        <td>基板</td>
+        <td>Main board</td>
         <td>2</td>
-        <td>スイッチプレート</td>
+        <td>Switch plate</td>
         <td>3</td>
-        <td>ボトムプレート</td>
+        <td>Bottom plate</td>
     </tr>
 <table>
 
-### 袋3: 3Dプリンター部品
+### 袋3: 3DP Parts
 ![](./img/IMG_9387.jpg)
 
 <table>
     <tr>
         <td>1</td>
-        <td>ボトムスタンド</td>
+        <td>Bottom stand</td>
         <td></td>
         <td>5</td>
-        <td>エンコーダーカバー</td>
+        <td>Encoder cover</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>ボトムカバー</td>
+        <td>Bottom cover</td>
         <td></td>
         <td>6</td>
-        <td>アクリルスタンド</td>
+        <td>Acrylic stand</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>サイドボタンカバー</td>
+        <td>Side button cover</td>
         <td></td>
         <td>7</td>
-        <td>アクリルカバー</td>
+        <td>Acrylic plate</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>スライドスイッチカバー</td>
+        <td>Slide switch cover</td>
         <td></td>
         <td>8</td>
-        <td>アクリルプカバー</td>
+        <td>Acrylic cover</td>
     </tr>
 </table>
 
 
-### 袋4: [1Uホイールエンコーダー THQWGD001](https://tarohayashi.booth.pm/items/5967252) 2袋分
+### 袋4: [1U Wheel Encoder THQWGD001](https://tarohayashi.booth.pm/items/5967252) 2袋分
 ![](./img/IMG_9349.jpg)
 <table>
     <tr>

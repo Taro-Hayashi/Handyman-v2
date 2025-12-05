@@ -6,7 +6,7 @@
 
 ## Preparation
 
-### Additional items to purchase
+### Additional Required
 ![](./img/IMG_8786.jpg)
 
 - [BMP Boost](https://shop.yushakobo.jp/en/products/10737) ...1
