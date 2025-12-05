@@ -64,3 +64,5 @@ LEDを取り付けている場合は画像のマークをクリックすると�
 レイヤーを変更するとLEDの色が変わります。
 ![](./img/remaprgblayer.jpg)
 この機能をオン/オフするにはFUNCTIONSタブのRGB Layerのキーを登録して押します。
+
+[戻る](../README.md)
