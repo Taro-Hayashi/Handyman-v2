@@ -8,7 +8,7 @@
 3. [Soldering](#3-Soldering)
 4. [Assembly](#4-Assembly)
 5. [Link](#5-Link)
-6. [Troubleshoot](#6-Troubleshoot)
+6. [Troubleshooting](#6-Troubleshooting)
 
 ## 1. Preparation
 ### 1.1 Additional Required
@@ -446,96 +446,96 @@ Place the lever button on LB1 and solder it in five locations.
 ![](./img/IMG_8222.jpg)
 Solder the left and right pads while tilting the lever with your finger.
 
-### 3.8 ロータリーエンコーダーのはんだ付け
-Rにロータリーエンコーダーを差し込み、はんだ付けします。
+### 3.8 Soldering Rotary Encoders
+Insert the rotary encoder into R and solder it.
 ![](./img/IMG_8067.jpg)
 
-### 3.9 プッシュボタンとホイールエンコーダーのはんだ付け
-ホイールの方向を決めてプッシュボタンB1、B2とホイールエンコーダーW1、W2の場所を決めます。
+### 3.9 Soldering push buttons and wheel encoders
+Determine the wheel direction and assign the locations for push buttons B1 and B2, as well as wheel encoders W1 and W2.
 ![](./img/IMG_8069.jpg)
-高さが低いプッシュボタンをはんだ付けしてからホイールエンコーダーをはんだ付けするとずれにくいです。
+Soldering the low-profile pushbutton first makes it less likely to shift when soldering the wheel encoder.
 ![](./img/IMG_8078.jpg)
 
-### 3.10 動作確認
-ジャンパー2箇所にジャンパーピンを差し込みます。
+### 3.10 Functionality Verification
+Insert jumper pins into the two jumper locations.
 ![](./img/IMG_8079.jpg)
 
 ![](./img/IMG_8086.jpg)
 
-スライドスイッチがオフになっていることを確認します。
+Ensure the slide switch is turned off.
 ![](./img/IMG_8082.jpg)
 
-USBケーブルでPCに接続して各ボタンが動作することを確認します。
+Connect it to your PC using a USB cable and verify that each button functions properly.
 ![](./img/IMG_8095.jpg)
-- リセットボタンは無線用のため何の機能もありません。
-- MXソケットは表からスイッチを差し込むか左右にピンセットを当てると動作を確認できます。
-- ホイールエンコーダーの回転はシャフトを使って動作を確認します。
+- The reset button has no function as it is for wireless use.
+- You can verify the operation of the MX socket by inserting the switch from the front or applying tweezers to the pins on either side.
+- The rotation of the wheel encoder is verified using the shaft.
 ![](./img/IMG_8102.jpg)
-- 動作に問題がある場合は[トラブルシュート](#6-トラブルシュート)の項も参考にしてください。
+- If you encounter any issues with operation, please also refer to [the Troubleshooting section.](#6-Troubleshooting).
 
-## 4. 組み立て
-### 4.1 1Uホイールエンコーダー THQWGD001
-ホイールの平らな面から、シャフトを途中まで差し込みます。
+## 4. Assembly
+### 4.1 1U Wheel Encoder THQWGD001
+Insert the shaft halfway into the flat surface of the wheel.
 ![](./img/IMG_8103.jpg)
-エンコーダーにシャフトを差し込みます。
+Insert the shaft into the encoder.
 ![](./img/IMG_8105.jpg)
-スペーサーを取り付けてプッシュボタンに乗せます。
+Attach the spacer and place it on the push button.
 ![](./img/IMG_8107.jpg)
-ベースを6mmネジとナットで取り付けます。
+Attach the base using 6mm screws and nuts.
 ![](./img/IMG_8116.jpg)
-カバーを取り付けます。
+Attach the cover.
 ![](./img/IMG_8123.jpg)
 
-### 4.2 ボトムプレート
-ボトムプレートを乗せます。
+### 4.2 Bottom plate
+Place the bottom plate.
 ![](./img/IMG_8127.jpg)
 
-### 4.3 サイドボタンカバーとスライドスイッチカバー
-サイドボタンカバーとスライドスイッチカバーを隙間に取り付けます。
+### 4.3 Side button cover and slide switch cover
+Attach the side button cover and slide switch cover into the gap.
 ![](./img/IMG_8130.jpg)
 ![](./img/IMG_8131.jpg)
 
-### 4.4 ボトムスタンド
-ボトムスタンドのここが詰まってる場合は画像のように取り除きます（白いことがありますが正常です）。
+### 4.4 Bottom stand
+If this part of the bottom stand is clogged, remove it as shown in the image (it may be white, but this is normal).
 ![](./img/IMG_8135.jpg)
 
-ボトムプレートの上に乗せ3箇所をナットとネジで止めます。
+Place it on the bottom plate and secure it at three points with nuts and bolts.
 ![](./img/IMG_8138.jpg)
-厚い1箇所は10mmネジ、薄い2箇所は8mmネジを使用します。
+Use a 10mm screw for the thick section and 8mm screws for the two thin sections.
 
-### 4.5 ボトムカバー
-ボトムカバーを取り付けて10mmネジで止めます。
+### 4.5 Bottom cover
+Attach the bottom cover and secure it with 10mm screws.
 ![](./img/IMG_8142.jpg)
-ゴム足を取り付けます。
+Attach the rubber feet.
 ![](./img/IMG_8143.jpg)
 
-### 4.6 エンコーダーカバー
-表にして、向きに気をつけてエンコーダーカバーを取り付けます。
+### 4.6 Encoder Cover
+Install the encoder cover with the front side facing up, paying attention to the orientation.
 ![](./img/IMG_8145.jpg)
 
-### 4.7 スイッチプレート
-スイッチプレートを乗せます。
+### 4.7 Switch plate
+Place the switch plate.
 ![](./img/IMG_8148.jpg)
-4隅から順番に全てのスイッチを取り付けます。
+Install all switches starting from the four corners in order.
 ![](./img/IMG_8650.jpg)
-スイッチのピンが曲がらないように垂直にソケットに差し込みます。
+Insert the switch pin vertically into the socket to prevent bending.
 ![](./img/IMG_8654.jpg)
 
-### 4.8 アクリルスタンド、アクリルプレート、アクリルカバー
-スイッチプレートにアクリルスタンドを差し込みます。
+### 4.8 Acrylic stand, acrylic plate, acrylic cover
+Insert the acrylic stand into the switch plate.
 ![](./img/IMG_8155.jpg)
-アクリルプレートの保護シールを剥がします。
+Peel off the protective film from the acrylic plate.
 ![](./img/IMG_8159.jpg)
-アクリルスタンドとアクリルプレートを挟むようにアクリルカバーをスイッチプレートに取り付けます。
+Attach the acrylic cover to the switch plate so that it sandwiches the acrylic stand and acrylic plate.
 ![](./img/IMG_8175.jpg)
-アクリルプレートを指でずらして調節しながら差し込むとスムーズに取り付けやすいです。
+Slide the acrylic plate into place with your finger while adjusting it for smooth and easy installation.
 
-### 4.9 天窓ノブ（24mm）
-ステムの隙間にナットを入れ、ナットが落ちない程度に5mmネジを締めます。
+### 4.9 Skylight knob（24mm）
+Insert the nut into the gap in the stem, then tighten the 5mm screw just enough to prevent the nut from falling out.
 ![](./img/IMG_8147.jpg)
-ロータリーエンコーダーのシャフトに取り付けて外れなくなる程度にネジを締めます。
+Tighten the screw onto the rotary encoder shaft until it cannot be removed.
 ![](./img/IMG_8661.jpg)
-アクリルプレートの保護シールを剥がし、ノブに入れてステムに取り付けます。
+Peel off the protective sticker from the acrylic plate, insert it into the knob, and attach it to the stem.
 ![](./img/IMG_8724.jpg)
 切れ込みのどちらかにネジの頭が収まるようにします。
 ![](./img/IMG_8730.jpg)
@@ -555,7 +555,7 @@ USBケーブルでPCに接続して各ボタンが動作することを確認し
 
 ***
 
-### 6. トラブルシュート
+### 6. Troubleshooting
 - キーが反応しない。
 
 ダイオードの方向やはんだ付け、スイッチソケットのはんだ付けをご確認ください。また、スイッチの足が曲がっていないかご確認ください。
