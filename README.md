@@ -6,7 +6,7 @@
 組み立てキット / for Assembly Kits
 - [日本語](/doc/BUILD.md) / [English](/doc/BUILD_EN.md)
 
-はんだ付け済み / for Pre-Soldered
+はんだ付け済み品 / for Pre-Soldered
 - [日本語](/doc/SOLDERED.md) / [English](/doc/SOLDERED_EN.md)
 
 完成品 / for Pre-Assembled
@@ -26,8 +26,10 @@ Firmware Sourcecode
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman_v2
 
 ## 販売ページ
-- [BOOTH](https://tarohayashi.booth.pm/items/7544767)
+- [BOOTH](https://tarohayashi.booth.pm/items/7544767) （黒、白、ピンク・キット/完成品）
+- 遊舎工房（黒・キット/はんだ付け済み品）
 
 ***
 
 ![](/doc/img/IMG_0915.jpg)
+
