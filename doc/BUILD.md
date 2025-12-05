@@ -396,7 +396,7 @@
 
 ### RP2040-Zeroの動作確認
 こちらのファイルをダウンロードします。
-- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
+- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handyman_v2_default.uf2)
 
 PCにRP2040-ZeroをBOOTボタンを押しながら接続します。
 ![](./img/IMG_8012.jpg)
