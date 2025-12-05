@@ -1,8 +1,8 @@
-# Handyman Macropad v2 Assembly Guide ([日本語](./BUILD.md)])
+# Handyman Macropad v2 Assembly Guide ([日本語](./BUILD.md))
 
 ![](./img/IMG_9071.jpg)
 
-## 目次
+## Table of Contents
 1. [Preparation](#1-Preparation)
 2. [Contents](#2-Contents)
 3. [Soldering](#3-Soldering)
@@ -169,13 +169,13 @@ It is packaged in several separate bags.
     </tr>
     <tr>
         <td>15</td>
-        <td>Micro Controller Spacer</td>
+        <td>Micro controller spacer</td>
         <td>1</td>
         <td>Color is random.</td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Micro Controller Clip</td>
+        <td>Micro controller clip</td>
         <td>1</td>
         <td>Color is random.</td>
     </tr>
@@ -288,177 +288,163 @@ It is packaged in several separate bags.
     </tr>
 </table>
 
-### 袋5: [天窓ノブ（24mm）](https://tarohayashi.booth.pm/items/7611316)
+### 袋5: [Skylight knob (24mm)](https://makerworld.com/ja/models/2022018-skylight-knobs)
 ![](./img/IMG_9330.jpg)
 <table>
     <tr>
-        <th>番号</th>
-        <th>部品名（保守品リンク）</th>
-        <th>数量</th>
-        <th></th>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>ノブ</td>
+        <td>Knob</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>シャフト</td>
+        <td>Shaft</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>アクリルプレート</td>
+        <td>Acrylic plate</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https://www.monotaro.com/p/5055/4866/">5mmネジ</a></td>
+        <td>5mm screw</td>
         <td>1</td>
         <td>M2x5mm</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https://www.monotaro.com/p/2876/3414/">ナット</a></td>
+        <td>Nuts</td>
         <td>1</td>
         <td>M2</td>
     </tr>
 </table>
 
-### 袋6: 無線化の袋(使用しませんが内容品を確認します。)
+### Bag 6: Wireless bag (Not used, but contents will be checked.)
 ![](./img/IMG_9305.jpg)
 <table>
     <tr>
-        <th>番号</th>
-        <th>部品名（保守品リンク）</th>
-        <th>数量</th>
-        <th></th>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>BMPカバー</td>
+        <td>BMP Cover</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>電池ボックスアダプター</td>
+        <td>Adoptor for battery box</td>
         <td>2</td>
-        <td>左右があります。</td>
+        <td>There are left and right sides.</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>USBキャップ</td>
+        <td>USB Cap</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https://www.monotaro.com/p/5055/4884/">8mmネジ</a></td>
+        <td>8mm screw</td>
         <td>2</td>
         <td>M2x8</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https://www.monotaro.com/p/2876/4087/">ワッシャー</a></td>
+        <td>Washer</td>
         <td>4</td>
         <td>M2</td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="https://www.monotaro.com/p/2344/7646/">スプリングワッシャー</a></td>
+        <td>Spring Washer</td>
         <td>2</td>
         <td>M2</td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="https://www.monotaro.com/p/2876/3414/">ナット</a></td>
+        <td>Nuts</td>
         <td>2</td>
         <td>M2</td>
     </tr>
 </table>
 
-### RP2040-Zeroの動作確認
-こちらのファイルをダウンロードします。
+###  RP2040-Zero Operation Verification
+Download this file.
 - [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
 
-PCにRP2040-ZeroをBOOTボタンを押しながら接続します。
+Connect the RP2040-Zero to the PC while holding down the BOOT button.
 ![](./img/IMG_8012.jpg)
 
-ドライブとして認識されるのでダウンロードしたファイルをドラッグ&ドロップします。
+Since it is recognized as a drive, drag and drop the downloaded file.
 ![](./img/drive.png)
 
-ドライブが自動的に消えれば準備完了です。
+Once the drive disappears automatically, you're all set.
 
-## 3. はんだ付け
-はんだ付けしたところの高さが2.5mm以下になるように気をつけます。
+## 3. Soldering
+Take care to ensure the height of the soldered area is 2.5mm or less.
 ![](./img/IMG_8016.jpg)
-部品はマスキングテープで仮止めしてはんだ付けするとずれにくいです。
+Temporarily securing parts with masking tape before soldering helps prevent them from shifting.
 ![](./img/IMG_8004.jpg)
 
-### 3.1 （オプション）LEDのはんだ付け
-BL1からBL22まで、足の切り欠きとマークを合わせてLEDを置きます。
+### 3.1 (Optional) LED soldering
+Place the LEDs from BL1 to BL22, aligning the notches and marks on the legs.
 ![](./img/IMG_7997.jpg)
 
-はんだ付けします。
+Soldering.
 ![](./img/IMG_7989.jpg)
 
-### 3.2 ダイオードのはんだ付け
-ダイオードの黒線をマークと合わせて差し込みます。
+### 3.2 Soldering diodes
+Diodes have a polarity. Align the wire with the mark.
 ![](./img/IMG_8003.jpg)
 
-表にして足を切り、はんだ付けします。
+Cut the legs on the surface and solder them.
 ![](./img/IMG_8008.jpg)
-D1からD28まであります。
+There are D1 through D28.
 ![](./img/IMG_8011.jpg)
 
-### 3.3 MXスイッチソケットのはんだ付け
-SW1からSW22まで、向きに気をつけて置きはんだ付けします。
+### 3.3 Soldering diodes MX Sockets
+Place and solder components SW1 through SW22, paying attention to their orientation.
 ![](./img/IMG_8018.jpg)
-ハンダの量が多めに必要です。
 
-
-### 3.4 ピンヘッダーのはんだ付け
-ピンヘッダーから2ピンを2個切り出します。
+### 3.4 Soldering pin headers
+Cut two 2-pin connectors from the pin header.
 ![](./img/IMG_8019.jpg)
 
-JP1、JP2の2箇所のジャンパーに短い方を差し込み、はんだ付けします。
+Insert the shorter jumper into the two locations, JP1 and JP2, and solder it in place.
 ![](./img/IMG_8024.jpg)
 
-パッドの間が狭いのでくっつかないように気をつけます。無線化しない場合は短絡されていても問題ありません。
+Be careful not to let them stick together since the space between the pads is narrow. If you don't go wireless, it's fine even if they short-circuit.
 ![](./img/IMG_8022.jpg)
 
 
-### 3.5 リセットボタン、スライドスイッチ、サイドボタンのはんだ付け
-Reset、Slide、Side、3箇所にボタンをはんだ付けします。
+### 3.5 Soldering the reset button, slide switch, and side button
+Solder buttons to three locations: Reset, Slide, and Side.
 ![](./img/IMG_8031.jpg)
 ![](./img/IMG_8027.jpg)
 
-### 3.6 RP2040-Zeroのはんだ付け
-ピンヘッダーから2ピン、3ピン、5ピン、5ピン、6ピンを切り出します。
+### 3.6 Soldering RP2040-Zero
+Cut out 2-pin, 3-pin, 5-pin, 5-pin, and 6-pin connectors from the pin header.
 ![](./img/IMG_8034.jpg)
 
-RP2040-Zeroと書かれた場所にピンヘッダーの短い方を差し込み、マイコンスペーサーを、段差がある方を下にして置きます。
+Insert the shorter side of the pin header into the location labeled RP2040-Zero, then place the micro controller spacer with the stepped side facing down.
 ![](./img/IMG_8036.jpg)
 
-RP2040-Zeroを乗せたらマイコンクリップで固定します。
-![](./img/IMG_8040.jpg)
+Once the RP2040-Zero is mounted, secure it with the micro controller clip.
+![](./img/IMG_8040.jpg)c
 
-両面をはんだ付けします。
+Solder both sides.
 ![](./img/IMG_8041.jpg)
 ![](./img/IMG_8088.jpg)
 
-クリップを外します。ピンヘッダーとRP2040-Zeroに大体2mmくらいの隙間ができます。
+Remove the clip. This creates a gap of about 2mm between the pin header and the RP2040-Zero.
 ![](./img/IMG_8052.jpg)
 
-### 3.7 レバーボタンのはんだ付け
-LB1にレバーボタンを置き、5箇所をはんだ付けします。
+### 3.7 Soldering the lever button
+Place the lever button on LB1 and solder it in five locations.
 ![](./img/IMG_8222.jpg)
-左右のパッドは指でレバーを倒しながらはんだ付けしてください。
+Solder the left and right pads while tilting the lever with your finger.
 
 ### 3.8 ロータリーエンコーダーのはんだ付け
 Rにロータリーエンコーダーを差し込み、はんだ付けします。
