@@ -26,8 +26,8 @@ Firmware Sourcecode
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman_v2
 
 ## 販売ページ
-- [BOOTH](https://tarohayashi.booth.pm/items/7544767) （黒、白、ピンク・キット/完成品）
-- 遊舎工房（黒・キット/はんだ付け済み品）
+- BOOTH （黒、白、ピンク/キット・完成品）
+- 遊舎工房（黒/キット・はんだ付け済み品）
 
 ***
 
