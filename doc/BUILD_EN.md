@@ -1,4 +1,4 @@
-# Handyman Macropad v2 Assembly Guide
+# Handyman Macropad v2 Assembly Guide ([日本語](./BUILD.md)])
 
 ![](./img/IMG_9071.jpg)
 
@@ -194,7 +194,7 @@ It is packaged in several separate bags.
     </tr>
 <table>
 
-### 袋3: 3DP Parts
+### Bag 3: 3DP Parts
 ![](./img/IMG_9387.jpg)
 
 <table>
@@ -229,66 +229,60 @@ It is packaged in several separate bags.
 </table>
 
 
-### 袋4: [1U Wheel Encoder THQWGD001](https://tarohayashi.booth.pm/items/5967252) 2袋分
+### Bag 4: [1U Wheel Encoder THQWGD001](https://github.com/Taro-Hayashi/THQWGD001) ...2
 ![](./img/IMG_9349.jpg)
 <table>
     <tr>
-        <th>番号</th>
-        <th>部品名（保守品リンク）</th>
-        <th>数量（2袋分）</th>
-        <th></th>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>ホイール</td>
+        <td>Wheel</td>
         <td>2</td>
-        <td>フラットホイール版</td>
+        <td></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>シャフト</td>
+        <td>Shaft</td>
         <td>2</td>
         <td></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>スペーサー</td>
+        <td>Spacer</td>
         <td>2</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>ベース</td>
+        <td>Base</td>
         <td>2</td>
         <td></td>
     </tr>
     <tr>
         <td>5</td>
-        <td>カバー</td>
+        <td>Cover</td>
         <td>2</td>
         <td></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="https://ja.aliexpress.com/item/4000910785086.html">ホイールエンコーダー</a></td>
+        <td>Wheel encoder</td>
         <td>2</td>
         <td>11mm</td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g103653/">プッシュボタン</a></td>
+        <td>Push button</td>
         <td>2</td>
         <td>6x6x7mm</td>
     </tr>
     <tr>
         <td>8</td>
-        <td><a href="https://www.monotaro.com/p/5055/7255/">6mmネジ</a></td>
+        <td>6mm screw</td>
         <td>4</td>
         <td>M2x6mm</td>
     </tr>
     <tr>
         <td>9</td>
-        <td><a href="https://www.monotaro.com/p/2876/3414/">ナット</a></td>
+        <td>Nuts</td>
         <td>4</td>
         <td>M2</td>
     </tr>

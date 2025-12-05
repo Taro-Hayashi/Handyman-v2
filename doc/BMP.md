@@ -1,4 +1,4 @@
-# BMP Boost を使った無線化 [English](BMP_EN.md)
+# BMP Boost を使った無線化（[English](BMP_EN.md)）
 
 ## ご注意
 - 必ず無線化しない状態での動作を確認してから無線化してください。

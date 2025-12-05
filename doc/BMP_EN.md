@@ -1,4 +1,4 @@
-# Wireless Implementation Using BMP Boost
+# Wireless Implementation Using BMP Boost ([日本語](./BMP.md)])
 
 ## Note
 - Always verify operation in a non-wireless state before switching to wireless mode.

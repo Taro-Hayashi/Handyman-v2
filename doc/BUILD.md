@@ -1,4 +1,4 @@
-# Handyman マクロパッド v2 の組み立て方
+# Handyman マクロパッド v2 の組み立て方（[English](./BUILD_EN.md)]）
 
 ![](./img/IMG_9071.jpg)
 
