@@ -19,7 +19,7 @@
         <td>22</td>
     </tr>
     <tr>
-        <td>Keycaps</a></td>
+        <td>Keycaps</td>
         <td>22</td>
     </tr>
     <tr>
@@ -288,7 +288,7 @@ It is packaged in several separate bags.
     </tr>
 </table>
 
-### 袋5: [Skylight knob (24mm)](https://makerworld.com/ja/models/2022018-skylight-knobs)
+### Bag 5: [Skylight knob (24mm)](https://makerworld.com/ja/models/2022018-skylight-knobs)
 ![](./img/IMG_9330.jpg)
 <table>
     <tr>
@@ -372,7 +372,7 @@ It is packaged in several separate bags.
 
 ###  RP2040-Zero Operation Verification
 Download this file.
-- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
+- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handyman_v2_default.uf2)
 
 Connect the RP2040-Zero to the PC while holding down the BOOT button.
 ![](./img/IMG_8012.jpg)
@@ -548,10 +548,10 @@ Just to be sure, double-check the operation and then attach the keycaps to compl
 ### 5. Link
 
 For information on customizing settings such as key assignments, please see here.
-- [Handyman マクロパッド v2の使い方](USAGE.md)
+- [How to Use](USAGE_EN.md)
 
 For wireless conversion, please refer to this section.
-- [BMP Boostを使った無線化](BMP.md)
+- [Wireless Implementation Using BMP Boost](BMP_EN.md)
 
 ***
 
@@ -564,7 +564,7 @@ Please verify the diode orientation and soldering, as well as the switch socket 
 
 Please verify that jumper pins are inserted into both jumpers.
 
-- LEDが一部しか光らない。
+- Only part of the LED lights up.
 
 The LEDs are connected in the order shown in the image. Please check the soldering on the last LED that lights up and the first LED that does not light up. There is also a possibility that the LED is damaged.
 ![](./img/IMG_0387.jpg)

@@ -1,4 +1,4 @@
-# Handyman マクロパッド v2 はんだ付け済み品 の組み立て方
+# Handyman マクロパッド v2 はんだ付け済み品 の組み立て方（[English](./SOLDERED_EN.md)）
 
 ![](./img/IMG_9251.jpg)
 
@@ -149,7 +149,7 @@
 
 ### 動作の確認
 こちらのファイルをダウンロードします。
-- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
+- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handyman_v2_default.uf2)
 
 サイドボタンを押しながらUSBケーブルでPCに接続するとドライブとして認識されます。
 ![](./img/IMG_0956.jpg)

@@ -1,4 +1,4 @@
-# Handyman マクロパッド v2 の使用方法
+# Handyman マクロパッド v2 の使用方法（[English](./USAGE_EN.md)）
 
 キースイッチの他に以下の動作を設定できます。
 ![](./img/function.jpg)

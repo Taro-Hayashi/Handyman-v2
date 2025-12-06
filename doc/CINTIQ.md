@@ -1,4 +1,4 @@
-# Handyman マクロパッド v2 Cintiq Pro用インチネジアダプター の組み立て方
+# Handyman マクロパッド v2 Cintiq Pro用インチネジアダプター の組み立て方（[English](./CINTIQ_EN.md)）
 
 ![](./img/IMG_0848.jpg)
 

@@ -1,4 +1,4 @@
-# Handyman マクロパッド v2 完成品 のセットアップ
+# Handyman マクロパッド v2 完成品 のセットアップ（[English](./PREASSEMBLED_EN.md)）
 
 ## 必要なもの
 - [データ転送対応のType-C USBケーブル](https://amzn.to/3XS9qRu)
@@ -63,7 +63,7 @@
 
 ### セットアップ
 こちらのファイルをダウンロードします。
-- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
+- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handyman_v2_default.uf2)
 
 サイドボタンを押しながらUSBケーブルでPCに接続するとドライブとして認識されます。
 ![](./img/IMG_9581.jpg)

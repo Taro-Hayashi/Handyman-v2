@@ -1,95 +1,90 @@
-# Handyman マクロパッド v2 完成品 のセットアップ
+# Pre-assembled Handyman Macropad v2 Setup Guide ([日本語](./PREASSEMBLED.md))
 
-## 必要なもの
-- [データ転送対応のType-C USBケーブル](https://amzn.to/3XS9qRu)
+## What to need
+- Type-C USB Cable
 
-## 内容品の確認
+## Verification of Contents
 
-### 本体
+### Body
 ![](./img/IMG_9752.jpg)
 
-### 無線化の袋(使用しませんが内容品を確認します。)
+### Wireless bag (Not used, but contents will be checked.)
 ![](./img/IMG_9305.jpg)
 <table>
     <tr>
-        <th>番号</th>
-        <th>部品名（保守品リンク）</th>
-        <th>数量</th>
-        <th></th>
-    </tr>
-    <tr>
         <td>1</td>
-        <td>BMPカバー</td>
+        <td>BMP Cover</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>電池ボックスアダプター</td>
+        <td>Adoptor for battery box</td>
         <td>2</td>
-        <td>左右があります。</td>
+        <td>There are left and right sides.</td>
     </tr>
     <tr>
         <td>3</td>
-        <td>USBキャップ</td>
+        <td>USB Cap</td>
         <td>1</td>
         <td></td>
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https://www.monotaro.com/p/5055/4884/">8mmネジ</a></td>
+        <td>8mm screw</td>
         <td>2</td>
         <td>M2x8</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https://www.monotaro.com/p/2876/4087/">ワッシャー</a></td>
+        <td>Washer</td>
         <td>4</td>
         <td>M2</td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="https://www.monotaro.com/p/2344/7646/">スプリングワッシャー</a></td>
+        <td>Spring Washer</td>
         <td>2</td>
         <td>M2</td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="https://www.monotaro.com/p/2876/3414/">ナット</a></td>
+        <td>Nuts</td>
         <td>2</td>
         <td>M2</td>
     </tr>
 </table>
 
-### セットアップ
-こちらのファイルをダウンロードします。
-- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.2/tarohayashi_handyman_v2_default.uf2)
 
-サイドボタンを押しながらUSBケーブルでPCに接続するとドライブとして認識されます。
+### Setup
+Download this file.
+- [tarohayashi_handyman_v2_default.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handyman_v2_default.uf2)
+
+Press and hold the side button while connecting to a PC via USB cable to have it recognized as a drive.
 ![](./img/IMG_9581.jpg)
 
-ドライブにダウンロードしたファイルをドラッグ&ドロップして自動的にドライブが消えたら完了です。
+Drag and drop the downloaded file onto the drive. Once the drive icon disappears automatically, you're done.
 ![](./img/drive.png)
 
 ***
-### リンク
+### Link
 
-キーの設定などカスタマイズ方法についてはこちらをご覧ください。
-- [Handyman マクロパッド v2の使い方](USAGE.md)
+For information on customizing settings such as key assignments, please see here.
+- [How to Use](USAGE_EN.md)
 
-無線化する場合はこちらをご覧ください。
-- [BMP Boostを使った無線化](BMP.md)
+For wireless conversion, please refer to this section.
+- [Wireless Implementation Using BMP Boost](BMP_EN.md)
 
-別売オプション
-- [専用リストレスト](https://tarohayashi.booth.pm/items/7544767)
-- [Cintiq Pro用インチネジアダプター](https://tarohayashi.booth.pm/items/7544767)
+Optional accessories sold separately
+- [Wrist rest](https://tarohayashi.booth.pm/items/7544767)
+- [Adaptor for Cintiq Pro](https://tarohayashi.booth.pm/items/7544767)
 
 ***
 
-## トラブルシュート
+## Troubleshooting
 
-- パーツが緩くなった。
+- The parts have become loose.
 
-マスキングテープ等で軸や留め具を大きくすると改善することがあります。接着剤で接着することも可能です。
+Using masking tape or similar materials to enlarge the shaft or fastener may improve the situation. Adhesive bonding is also possible.
 
 [Back to Start Page](../README.md)

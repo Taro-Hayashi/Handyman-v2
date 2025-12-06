@@ -1,11 +1,21 @@
-# Handyman マクロパッド v2 の使用方法
+# How to Use ([日本語](./USAGE.md))
 
 キースイッチの他に以下の動作を設定できます。
 ![](./img/function.jpg)
 
 ## キーの入れ替え方
 Google Chromeを使用してRemapに接続してカスタマイズを選びます。
+
+- [Remap](https://remap-keys.app/)
+
 ![](./img/remapstart.jpg)
+
+こちらのJSONファイルをドラッグ&ドロップします。
+
+- [handymanv2.json](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/handymanv2.json)
+
+![](./img/remapjson.jpg)
+
 キーをドラッグ&ドロップして、右上の書き込みボタンを押すと設定を変更できます。
 ![](./img/remapmain.jpg)
 
@@ -65,4 +75,4 @@ LEDを取り付けている場合は画像のマークをクリックすると�
 ![](./img/remaprgblayer.jpg)
 この機能をオン/オフするにはFUNCTIONSタブのRGB Layerのキーを登録して押します。
 
-[Back to Start Page](../README.md)
+[スタートページに戻る](../README.md)
