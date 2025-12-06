@@ -1,78 +1,78 @@
 # How to Use ([日本語](./USAGE.md))
 
-キースイッチの他に以下の動作を設定できます。
+In addition to the key switch, the following actions can be configured.
 ![](./img/function.jpg)
 
-## キーの入れ替え方
-Google Chromeを使用してRemapに接続してカスタマイズを選びます。
+## How to Swap Keys
+Connect to Remap using Google Chrome and select Customize.
 
 - [Remap](https://remap-keys.app/)
 
 ![](./img/remapstart.jpg)
 
-こちらのJSONファイルをドラッグ&ドロップします。
+Drag and drop this JSON file here.
 
 - [handymanv2.json](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/handymanv2.json)
 
 ![](./img/remapjson.jpg)
 
-キーをドラッグ&ドロップして、右上の書き込みボタンを押すと設定を変更できます。
+Drag and drop the key, then press the write button in the upper right to change the settings.
 ![](./img/remapmain.jpg)
 
-### ホイール、ダイヤルの設定
-丸いアイコンで設定可能です。
+### Wheel and Dial Settings
+Settings can be configured using the round icon.
 ![](./img/remapencoder.jpg)
 
-左下のマークをクリックすると時計回り回転、反時計回り回、転押し込みを設定できます。
+Click the mark in the lower left to set clockwise rotation, counterclockwise rotation, and rotation when pressed.
 ![](./img/remapicon.jpg)
 
 
-### ショートカットを使う
-修飾キー（Ctrlなど）との同時押しを設定するには、設定したいキーをクリックします。
+### Use shortcuts
+To configure simultaneous presses with modifier keys (such as Ctrl), click the key you wish to set.
 ![](./img/remapinput.jpg)
-キーコードの欄に入力すると候補が出てくるのでクリックして選びます。
+When you enter text in the keycode field, suggestions will appear; click to select one.
 ![](./img/remapmod.jpg)
-同時押ししたい修飾キーのチェックボックスにチェックを入れたら設定完了です。
+Check the boxes for the modifier keys you want to press simultaneously to complete the settings.
 
-### ホールド/タップを使う
-短く押した時はキーが入力されて、押し続けると修飾キーになるような設定も可能です。
+### Use Hold/Tap
+You can also configure it so that a short press enters the key, while a long press activates the modifier key.
 ![](./img/remapmodtap.jpg)
-ホールド/タップのタブのホールドに修飾キー、タップに入力したいキーを設定します。
+Set the modifier key for the Hold function and the key you want to input for the Tap function in the Hold/Tap tab.
 
-### レイヤーの設定
-左の数字をクリックすると違うレイヤーのキーを設定できます。  
+### Layer Settings
+Click the number on the left to set keys for different layers. 
 ![](./img/remaplayer.jpg)
-レイヤーを切り替えると設定を丸ごと変更でき、実質的にキー数を増やすことができます。
+Switching layers allows you to change the entire set of settings, effectively increasing the number of keys.
 ![](./img/remapmotg.jpg)
-TG(数字）キーを押すとそれ以降は指定のレイヤーに切り替わります。  
-MO（数字）はキーを押している間だけ指定のレイヤーに切り替えます。
+Pressing the TG(number) key will switch to the specified layer thereafter. 
+MO (number) switches to the specified layer only while the key is pressed.
 ![](./img/remapmo.jpg)
-MOはノートPCのFnキーのように同時押しで別のキーとして機能させるような使い方のほか、スライドスイッチにMOを割り当てるとオンとオフで違う設定に切り替えることができて便利です。
+MO can be used like a laptop's Fn key to function as a different key when pressed simultaneously. Additionally, assigning MO to a slide switch allows you to toggle between different settings when switched on and off, which is convenient.
 ![](./img/remaprefer.jpg)
-MOを使用する場合、移行先のレイヤーの同じキーは同じMOか▽のマークを指定します。▽のキーは一時的に変更する前のレイヤーのキーを押すキーです。
+When using MO, specify the same MO or the ▽ key for the same key on the destination layer. The ▽ key is the key used to temporarily press the key from the previous layer.
 
-### 特殊なキー
-FUNCTIONSタブのVIA USER KEYにWindwosではControl、MacやiPadではCommandになる便利なキーがあります。
+### Special keys
+The VIA USER KEY in the FUNCTIONS tab has a convenient key that is Control on Windows and Command on Mac or iPad.
 ![](./img/remapuser.jpg)
-A~Z、テンキーの±、0、Tabとの同時押しのキーも用意しました。
+We've also prepared keys for simultaneous presses with A~Z, the numeric keypad's ±, 0, and Tab.
 
-### 設定の保存
-画像のマークをクリックすると設定を保存/復元することができます。GoogleかGitHubのアカウントでログインする必要があります。
+### Save Settings
+Click the icon to save or restore your settings. You must log in with a Google or GitHub account.
 ![](./img/remapsave.jpg)
-共有すると他の人に自分の設定を使ってもらうことができます。自由に登録してください。
+Sharing allows others to use your settings. Feel free to register.
 
-### 設定のリセット
-画像のマークから設定をリセットすることができます。キー以外の設定も初期化できるので困った時は試してみてください。
+### Reset Settings
+You can reset settings from the icon in the image. This also initializes settings other than the key, so try it when you're having trouble.
 ![](./img/remapreset.jpg)
 
 
-### LEDの設定
-LEDを取り付けている場合は画像のマークをクリックすると発光を調節できます。
+### LED Settings
+If you have an LED installed, you can adjust its brightness by clicking the icon shown in the image.
 ![](./img/remaprgb.jpg)
 
-### RGBレイヤー機能
-レイヤーを変更するとLEDの色が変わります。
+### RGB Layer Function
+Changing the layer will change the LED color.
 ![](./img/remaprgblayer.jpg)
-この機能をオン/オフするにはFUNCTIONSタブのRGB Layerのキーを登録して押します。
+To turn this feature on or off, register the RGB Layer key in the FUNCTIONS tab and press it.
 
-[スタートページに戻る](../README.md)
+[Back to Start Page](../README.md)

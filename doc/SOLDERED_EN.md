@@ -177,41 +177,41 @@ Peel off the protective film from the acrylic plate.
 ![](./img/IMG_8159.jpg)
 Attach the acrylic cover to the switch plate so that it sandwiches the acrylic stand and acrylic plate.
 ![](./img/IMG_8175.jpg)
-アクリルプレートを指でずらして調節しながら差し込むとスムーズに取り付けやすいです。
-ステムの隙間にナットを入れ、ナットが落ちない程度に5mmネジを締めます。
+Slide the acrylic plate into place with your finger while adjusting it for smooth and easy installation.
+Insert the nut into the gap in the stem, then tighten the 5mm screw just enough to prevent the nut from falling out.
 ![](./img/IMG_8147.jpg)
-ロータリーエンコーダーのシャフトに取り付けて外れなくなる程度にネジを締めます。
+Tighten the screw onto the rotary encoder shaft until it cannot be removed.
 ![](./img/IMG_8661.jpg)
-アクリルプレートの保護シールを剥がし、ノブに入れてステムに取り付けます。
+Peel off the protective sticker from the acrylic plate, insert it into the knob, and attach it to the stem.
 ![](./img/IMG_8724.jpg)
-切れ込みのどちらかにネジの頭が収まるようにします。
+Position the screw head so that it fits into one of the notches.
 ![](./img/IMG_8730.jpg)
-キーキャップを取り付ければ完成です。
+Simply attach the keycaps to complete the assembly.
 ![](./img/IMG_8738.jpg)
 
 ***
 
-## 4. リンク
+## 4. Link
 
-キーの設定などカスタマイズ方法についてはこちらをご覧ください。
-- [Handyman マクロパッド v2の使い方](USAGE.md)
+For information on customizing settings such as key assignments, please see here.
+- [How to Use](USAGE_EN.md)
 
-無線化する場合はこちらをご覧ください。
-- [BMP Boostを使った無線化](BMP.md)
+For wireless conversion, please refer to this section.
+- [Wireless Implementation Using BMP Boost](BMP_EN.md)
 
 ***
 
-## 5. トラブルシュート
+## 5. Troubleshooting
 
-- キーが反応しない。
-スイッチの足が曲がっていないかご確認ください。曲がっていた場合はピンセットやラジオペンチを使うと伸ばしやすいです。
+- The key isn't responding.
+Please check if the switch pins are bent. If they are bent, using tweezers or needle-nose pliers makes it easier to straighten them.
 
-- パーツが緩くなった。
+- The part has become loose.
 
-マスキングテープ等で軸や留め具を大きくすると改善することがあります。接着剤で接着することも可能です。
+Using masking tape or similar materials to enlarge the shaft or fastener may improve the situation. Adhesive bonding is also possible.
 
-- 部品が壊れた/無くなった。
+- The part broke/is missing.
 
-基板や部品は単品で販売が可能ですのでご連絡ください。
+Boards and components are available for individual sale, so please contact us.
 
 [Back to Start Page](../README.md)
