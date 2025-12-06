@@ -537,42 +537,44 @@ Tighten the screw onto the rotary encoder shaft until it cannot be removed.
 ![](./img/IMG_8661.jpg)
 Peel off the protective sticker from the acrylic plate, insert it into the knob, and attach it to the stem.
 ![](./img/IMG_8724.jpg)
-切れ込みのどちらかにネジの頭が収まるようにします。
+Position the screw head so that it fits into one of the notches.
 ![](./img/IMG_8730.jpg)
 
-念の為もう一度動作を確認してキーキャップを取り付ければ完成です。
+Just to be sure, double-check the operation and then attach the keycaps to complete the process.
 ![](./img/IMG_8738.jpg)
   
 ***
 
-### 5. リンク
+### 5. Link
 
-キーの設定などカスタマイズ方法についてはこちらをご覧ください。
+For information on customizing settings such as key assignments, please see here.
 - [Handyman マクロパッド v2の使い方](USAGE.md)
 
-無線化する場合はこちらをご覧ください。
+For wireless conversion, please refer to this section.
 - [BMP Boostを使った無線化](BMP.md)
 
 ***
 
 ### 6. Troubleshooting
-- キーが反応しない。
+- The key isn't responding.
 
-ダイオードの方向やはんだ付け、スイッチソケットのはんだ付けをご確認ください。また、スイッチの足が曲がっていないかご確認ください。
+Please verify the diode orientation and soldering, as well as the switch socket soldering. Also, check that the switch pins are not bent.
 
-- スライドスイッチが反応しない、ロータリー/ホイールエンコーダーの反応に問題がある、LEDが一つも光らない
+- The slide switch is unresponsive, the rotary/wheel encoder has responsiveness issues, and none of the LEDs are lighting up.
 
-2箇所のジャンパーにジャンパーピンがささっているかご確認ください。
+Please verify that jumper pins are inserted into both jumpers.
 
 - LEDが一部しか光らない。
 
-LEDは画像の順番で接続されています。光る最後のLEDと、光らない最初のLEDのはんだ付けをご確認ください。LEDの破損の可能性もあります。
+The LEDs are connected in the order shown in the image. Please check the soldering on the last LED that lights up and the first LED that does not light up. There is also a possibility that the LED is damaged.
 ![](./img/IMG_0387.jpg)
 
-- レバーボタンが反応しない。
+- The lever button is unresponsive.
 
-手前の3つだけでなく、左右の2つのパッドもはんだ付けされていることをご確認ください。
+Please ensure that not only the three pads in front but also the two pads on the left and right are soldered.
 
-- パーツが緩くなった。
+- The part has become loose.
 
-マスキングテープ等で軸や留め具を大きくすると改善することがあります。また、3Dプリンター製のパーツははんだごてを当てて溶かすことで溶接することができます。接着剤で接着してしまっても良いと思います。
+Using masking tape or similar materials to enlarge the shaft or fasteners may improve the situation. Additionally, 3D-printed parts can be welded by applying a soldering iron to melt them. Using adhesive to bond them together is also acceptable.
+
+[Back to Start Page](../README.md)

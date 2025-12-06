@@ -128,3 +128,5 @@ Cintiq Proの左側のネジ受けに取り付けます。
 
 取り付け完了です。
 ![](./img/IMG_0819.jpg)
+
+[Back to Start Page](../README.md)

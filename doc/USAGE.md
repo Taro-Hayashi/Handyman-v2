@@ -75,4 +75,4 @@ LEDを取り付けている場合は画像のマークをクリックすると�
 ![](./img/remaprgblayer.jpg)
 この機能をオン/オフするにはFUNCTIONSタブのRGB Layerのキーを登録して押します。
 
-[戻る](../README.md)
+[スタートページに戻る](../README.md)

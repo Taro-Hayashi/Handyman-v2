@@ -159,3 +159,5 @@ ADV switches the connection destination, and DEL deletes the connection destinat
 ### Saving and Restoring Settings
 Saving and Restoring Settings
 ![](./img/vialfile.jpg)
+
+[Back to Start Page](../README.md)
