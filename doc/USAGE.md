@@ -4,7 +4,7 @@
 ![](./img/function.jpg)
 
 ## キーの入れ替え方
-Google Chromeを使用してRemapに接続してカスタマイズを選びます。
+Google Chromeを使用してRemapに接続して、カスタマイズを選びます。
 
 - [Remap](https://remap-keys.app/)
 
