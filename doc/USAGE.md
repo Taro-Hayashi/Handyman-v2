@@ -10,12 +10,6 @@ Google Chromeを使用してRemapに接続してカスタマイズを選びま�
 
 ![](./img/remapstart.jpg)
 
-こちらのJSONファイルをドラッグ&ドロップします。
-
-- [handymanv2.json](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/handymanv2.json)
-
-![](./img/remapjson.jpg)
-
 キーをドラッグ&ドロップして、右上の書き込みボタンを押すと設定を変更できます。
 ![](./img/remapmain.jpg)
 
