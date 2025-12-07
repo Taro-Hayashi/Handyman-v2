@@ -26,16 +26,16 @@ BMP BOOSTをPCにUSBケーブルで接続し、Google ChromeでBLE Micro Pro Web
 - [BLE Micro Pro Web Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/)
 
 ブートローダーとアプリケーションをアップデートします。基本的には最新の、同じバージョンにしてください。
-
+![](./img/bmpstart.png)
 ![](./img/1.png)
 ![](./img/2.png)
-BMPのドライブにCONFIG.BINがあることを確認してください。
+終わったら一度ケーブルを接続し直して、BMPのドライブにCONFIG.BINがあることを確認してください。
 ![](./img/3.png)
 
 こちらのzipファイルをダウンロードします。
 - [handymanv2_bmp.zip](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/handymanv2_bmp.zip)
 
-zipファイルの中身の3つのファイルをドラッグ&ドロップします。一度ケーブルを繋ぎ直してドライブに入れたファイルが消えていることを確認します。
+zipファイルの中身の3つのファイルをドラッグ&ドロップします。再度ケーブルを繋ぎ直してドライブに入れたファイルが消えていることを確認します。
 ![](./img/4.png)
 
 

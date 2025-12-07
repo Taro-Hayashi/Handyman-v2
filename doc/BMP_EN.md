@@ -26,10 +26,10 @@ Connect the BMP BOOST to your PC using a USB cable, then access the BLE Micro Pr
 - [BLE Micro Pro Web Configurator](https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/)
 
 Update the bootloader and applications. As a general rule, update them to the latest version of the same version.
-
+![](./img/bmpstart.png)
 ![](./img/1.png)
 ![](./img/2.png)
-Please verify that CONFIG.BIN is present on the BMP drive.
+Once you're done, reconnect the cable once, verify that CONFIG.BIN is present on the BMP drive.
 ![](./img/3.png)
 
 Download this zip file.
