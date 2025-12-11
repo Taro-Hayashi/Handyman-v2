@@ -413,6 +413,7 @@ Cut two 2-pin connectors from the pin header.
 ![](./img/IMG_8019.jpg)
 
 Insert the shorter jumper into the two locations, JP1 and JP2, and solder it in place.
+![](./img/IMG_1343.jpg)
 ![](./img/IMG_8024.jpg)
 
 Be careful not to let them stick together since the space between the pads is narrow. If you don't go wireless, it's fine even if they short-circuit.
