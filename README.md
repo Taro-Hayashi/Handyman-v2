@@ -27,7 +27,8 @@ Firmware Sourcecode
 
 ## 販売ページ
 - 遊舎工房（黒/キット・はんだ付け済み品）
-- BOOTH （黒、白、ピンク/キット・完成品・別売オプション）
+- [BOOTH 組み立てキット](https://tarohayashi.booth.pm/items/7544767)（黒、白、ピンク/別売オプション）
+- [BOOTH 完成品](https://tarohayashi.booth.pm/items/7768563)（黒、白、ピンク/別売オプション）
 
 ***
 
