@@ -25,6 +25,9 @@ Cintiq Pro用インチネジアダプター の組み立て方 / Adapter for Cin
 Firmware Sourcecode
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman_v2
 
+Firmware for Vial
+- [tarohayashi_handymanv2_vial.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handymanv2_vial.uf2)
+
 ## 販売ページ
 - [遊舎工房](https://shop.yushakobo.jp/products/11447)（黒/キット・はんだ付け済み品）
 - [BOOTH 組み立てキット](https://tarohayashi.booth.pm/items/7544767)（黒、白、ピンク/別売オプション）
