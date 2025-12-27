@@ -3,7 +3,8 @@
 ![](/doc/img/IMG_9695.jpg)
 
 ## 組み立て、初期設定 / Setup Manual
-組み立てキット / for Assembly Kits
+### 組み立てキット / for Assembly Kits
+はんだ付けが必要な自作キットです。
 - [日本語](/doc/BUILD.md) / [English](/doc/BUILD_EN.md)
 
 はんだ付け済み品 / for Pre-Soldered
