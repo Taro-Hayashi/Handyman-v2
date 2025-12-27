@@ -33,7 +33,7 @@ BMP BOOSTをPCにUSBケーブルで接続し、Google ChromeでBLE Micro Pro Web
 ![](./img/3.png)
 
 こちらのzipファイルをダウンロードします。
-- [handymanv2_bmp.zip](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/handymanv2_bmp.zip)
+- [handymanv2_bmp.zip](https://github.com/Taro-Hayashi/Handyman-v2/releases/download/0.28.3/handymanv2_bmp.zip)
 
 zipファイルの中身の3つのファイルをドラッグ&ドロップします。再度ケーブルを繋ぎ直してドライブに入れたファイルが消えていることを確認します。
 ![](./img/4.png)
