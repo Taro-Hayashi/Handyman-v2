@@ -12,7 +12,7 @@
 完成品 / for Pre-Assembled
 - [日本語](/doc/PREASSEMBLED.md) / [English](/doc/PREASSEMBLED_EN.md)
 
-## 使用方法 / How to Use
+## 使い方 / How to Use
 - [日本語](/doc/USAGE.md) / [English](/doc/USAGE_EN.md)
 
 ## その他 / Misc
