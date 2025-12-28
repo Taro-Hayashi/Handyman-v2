@@ -26,6 +26,10 @@
         <td><a href="https://amzn.to/3XS9qRu">データ転送に対応したType-C USBケーブル</a></td>
         <td>1</td>
     </tr>
+    <tr>
+        <td>Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）/td>
+        <td>1</td>
+    </tr>
  </table>
 
 #### 別売オプション
