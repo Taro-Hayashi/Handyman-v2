@@ -15,6 +15,7 @@
 - [Cherry MX互換のキースイッチ](https://amzn.to/485V3PD) ...22
 - [キースイッチに対応したキーキャップ](https://shop.yushakobo.jp/products/dsa-blank-keycaps) ...22
 - [データ転送対応のType-C USBケーブル](https://amzn.to/3XS9qRu)
+- Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）
 
 ### 必要な工具
  - [精密ドライバー](https://amzn.to/48pxS1B0)
