@@ -27,7 +27,7 @@
         <td>1</td>
     </tr>
     <tr>
-        <td>Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）/td>
+        <td>Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）</td>
         <td>1</td>
     </tr>
  </table>
