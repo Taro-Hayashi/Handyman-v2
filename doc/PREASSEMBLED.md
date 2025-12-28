@@ -2,6 +2,7 @@
 
 ## 必要なもの
 - [データ転送対応のType-C USBケーブル](https://amzn.to/3XS9qRu)
+- Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）
 
 ## 内容品の確認
 
