@@ -26,8 +26,8 @@ Firmware for Vial
 - [tarohayashi_handymanv2_vial.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handymanv2_vial.uf2)
 
 Firmware Sourcecode
-- [QMK Firmware](qmk_firmware/keyborads/handyman_v2)
-- [VIAL](qmk_firmware/keyborads/handyman_v2_vial)
+- [QMK Firmware](qmk_firmware/keyboards/handyman_v2)
+- [VIAL](qmk_firmware/keyboards/handyman_v2_vial)
 
 ## 販売ページ
 - [遊舎工房](https://shop.yushakobo.jp/products/11447)（黒/キット・はんだ付け済み品）
