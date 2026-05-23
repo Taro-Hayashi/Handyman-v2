@@ -1,0 +1,382 @@
+{
+  "lighting": "qmk_rgblight",
+  "matrix": {
+    "rows": 7,
+    "cols": 5
+  },
+  "customKeycodes": [
+    {
+      "name": "Cmd / Ctrl",
+      "title": "MacOS/iOS:Command, Windows:Control",
+      "shortName": "Cmd\n/Ctrl"
+    },
+    {
+      "name": "Cmd / Ctrl + A",
+      "title": "Command / Control + A",
+      "shortName": "Cmd\n/Ctrl\nA"
+    },
+    {
+      "name": "Cmd / Ctrl + B",
+      "title": "Command / Control + B",
+      "shortName": "Cmd\n/Ctrl\nB"
+    },
+    {
+      "name": "Cmd / Ctrl + C",
+      "title": "Command / Control + C",
+      "shortName": "Cmd\n/Ctrl\nC"
+    },
+    {
+      "name": "Cmd / Ctrl + D",
+      "title": "Command / Control + D",
+      "shortName": "Cmd\n/Ctrl\nD"
+    },
+    {
+      "name": "Cmd / Ctrl + E",
+      "title": "Command / Control + E",
+      "shortName": "Cmd\n/Ctrl\nE"
+    },
+    {
+      "name": "Cmd / Ctrl + F",
+      "title": "Command / Control + F",
+      "shortName": "Cmd\n/Ctrl\nF"
+    },
+    {
+      "name": "Cmd / Ctrl + G",
+      "title": "Command / Control + G",
+      "shortName": "Cmd\n/Ctrl\nG"
+    },
+    {
+      "name": "Cmd / Ctrl + H",
+      "title": "Command / Control + H",
+      "shortName": "Cmd\n/Ctrl\nH"
+    },
+    {
+      "name": "Cmd / Ctrl + I",
+      "title": "Command / Control + I",
+      "shortName": "Cmd\n/Ctrl\nI"
+    },
+    {
+      "name": "Cmd / Ctrl + J",
+      "title": "Command / Control + J",
+      "shortName": "Cmd\n/Ctrl\nJ"
+    },
+    {
+      "name": "Cmd / Ctrl + K",
+      "title": "Command / Control + K",
+      "shortName": "Cmd\n/Ctrl\nK"
+    },
+    {
+      "name": "Cmd / Ctrl + L",
+      "title": "Command / Control + L",
+      "shortName": "Cmd\n/Ctrl\nL"
+    },
+    {
+      "name": "Cmd / Ctrl + M",
+      "title": "Command / Control + M",
+      "shortName": "Cmd\n/Ctrl\nM"
+    },
+    {
+      "name": "Cmd / Ctrl + N",
+      "title": "Command / Control + N",
+      "shortName": "Cmd\n/Ctrl\nN"
+    },
+    {
+      "name": "Cmd / Ctrl + O",
+      "title": "Command / Control + O",
+      "shortName": "Cmd\n/Ctrl\nO"
+    },
+    {
+      "name": "Cmd / Ctrl + P",
+      "title": "Command / Control + P",
+      "shortName": "Cmd\n/Ctrl\nP"
+    },
+    {
+      "name": "Cmd / Ctrl + Q",
+      "title": "Command / Control + Q",
+      "shortName": "Cmd\n/Ctrl\nQ"
+    },
+    {
+      "name": "Cmd / Ctrl + R",
+      "title": "Command / Control + R",
+      "shortName": "Cmd\n/Ctrl\nR"
+    },
+    {
+      "name": "Cmd / Ctrl + S",
+      "title": "Command / Control + S",
+      "shortName": "Cmd\n/Ctrl\nS"
+    },
+    {
+      "name": "Cmd / Ctrl + T",
+      "title": "Command / Control + T",
+      "shortName": "Cmd\n/Ctrl\nT"
+    },
+    {
+      "name": "Cmd / Ctrl + U",
+      "title": "Command / Control + U",
+      "shortName": "Cmd\n/Ctrl\nU"
+    },
+    {
+      "name": "Cmd / Ctrl + V",
+      "title": "Command / Control + V",
+      "shortName": "Cmd\n/Ctrl\nV"
+    },
+    {
+      "name": "Cmd / Ctrl + W",
+      "title": "Command / Control + W",
+      "shortName": "Cmd\n/Ctrl\nW"
+    },
+    {
+      "name": "Cmd / Ctrl + X",
+      "title": "Command / Control + X",
+      "shortName": "Cmd\n/Ctrl\nX"
+    },
+    {
+      "name": "Cmd / Ctrl + Y",
+      "title": "Command / Control + Y",
+      "shortName": "Cmd\n/Ctrl\nY"
+    },
+    {
+      "name": "Cmd / Ctrl + Z",
+      "title": "Command / Control + Z",
+      "shortName": "Cmd\n/Ctrl\nZ"
+    },
+    {
+      "name": "Cmd / Ctrl + -",
+      "title": "Command / Control + Numpad-",
+      "shortName": "Cmd\n/Ctrl\n-"
+    },
+    {
+      "name": "Cmd / Ctrl + +",
+      "title": "Command / Control + Numpad+",
+      "shortName": "Cmd\n/Ctrl\n+"
+    },
+    {
+      "name": "Cmd / Ctrl + 0",
+      "title": "Command / Control + 0",
+      "shortName": "Cmd\n/Ctrl\n0"
+    },
+    {
+      "name": "Cmd / Ctrl + TAB",
+      "title": "Command / Control + TAB",
+      "shortName": "Cmd\n/Ctrl\nTAB"
+    },
+    {
+      "name": "RGB Layers",
+      "title": "Toggle RGB Layers",
+      "shortName": "RGB\nLayers"
+    }
+  ],
+  "layouts": {
+    "keymap": [
+      [
+        {
+          "y": 1
+        },
+        "6,0"
+      ],
+      [
+        {
+          "y": 0.75,
+          "x": 6.5
+        },
+        "5,3"
+      ],
+      [
+        {
+          "y": 4,
+          "x": 0.5
+        },
+        "0,0\n\n\n\n\n\n\n\n\ne",
+        "0,1\n\n\n\n\n\n\n\n\ne",
+        {
+          "x": 0.25
+        },
+        "1,0\n\n\n\n\n\n\n\n\ne",
+        "1,1\n\n\n\n\n\n\n\n\ne",
+        {
+          "x": 0.25
+        },
+        "2,0\n\n\n\n\n\n\n\n\ne",
+        "2,1\n\n\n\n\n\n\n\n\ne"
+      ],
+      [
+        {
+          "rx": 0.5,
+          "x": 0.75
+        },
+        "0,0",
+        "0,1",
+        "0,2",
+        "0,3",
+        {
+          "f": 1,
+          "fa": [3]
+        },
+        "0,4"
+      ],
+      [
+        {
+          "y": 0.25,
+          "x": 2.75
+        },
+        "1,2",
+        {
+          "x": 1
+        },
+        "1,4"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1.75
+        },
+        "1,1",
+        {
+          "x": 1
+        },
+        "1,3"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 0.75,
+          "f": 3
+        },
+        "1,0"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 2.75,
+          "f": 1,
+          "fa": [3]
+        },
+        "2,2",
+        {
+          "x": 1
+        },
+        "2,4"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1.75
+        },
+        "2,1",
+        {
+          "x": 1
+        },
+        "2,3"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 0.75
+        },
+        "2,0"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 2.75
+        },
+        "3,2",
+        {
+          "x": 1,
+          "f": 3
+        },
+        "3,4"
+      ],
+      [
+        {
+          "y": -0.75,
+          "x": 1.75,
+          "f": 1,
+          "fa": [3]
+        },
+        "3,1",
+        {
+          "x": 1
+        },
+        "3,3"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 0.75
+        },
+        "3,0"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 1.75,
+          "f": 2,
+          "fa": [3]
+        },
+        "4,1"
+      ],
+      [
+        {
+          "y": -0.5,
+          "x": 0.75,
+          "f": 3
+        },
+        "4,0"
+      ],
+      [
+        {
+          "rx": 1.25,
+          "y": 4.5,
+          "x": 4,
+          "f": 1,
+          "fa": [3]
+        },
+        "4,4"
+      ],
+      [
+        {
+          "r": 15,
+          "rx": 0.5,
+          "y": 2.25,
+          "x": 7.25
+        },
+        "5,0"
+      ],
+      [
+        {
+          "x": 7.5
+        },
+        "5,1"
+      ],
+      [
+        {
+          "x": 7.25
+        },
+        "5,2"
+      ],
+      [
+        {
+          "r": -30,
+          "rx": 1.5,
+          "ry": 2.25,
+          "y": 3.75,
+          "x": -0.5
+        },
+        "4,2"
+      ],
+      [
+        {
+          "r": -15,
+          "rx": 0.25,
+          "ry": 0.5,
+          "y": 5.25,
+          "x": 2.5,
+          "f": 2,
+          "fa": [3]
+        },
+        "4,3"
+      ]
+    ]
+  }
+}

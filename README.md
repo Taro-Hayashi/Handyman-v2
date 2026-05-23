@@ -22,11 +22,12 @@ BMP BOOST を使った無線化 / Wireless Implementation Using BMP BOOST
 Cintiq Pro用インチネジアダプター の組み立て方 / Adapter for Cintiq Pro
 - [日本語](/doc/CINTIQ.md) / [English](/doc/CINTIQ_EN.md)
 
-Firmware Sourcecode
-- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/handyman_v2
-
 Firmware for Vial
 - [tarohayashi_handymanv2_vial.uf2](https://github.com/Taro-Hayashi/Handyman-v2/releases/latest/download/tarohayashi_handymanv2_vial.uf2)
+
+Firmware Sourcecode
+- [QMK Firmware](qmk_firmware/keyborads/handyman_v2)
+- [VIAL](qmk_firmware/keyborads/handyman_v2_vial)
 
 ## 販売ページ
 - [遊舎工房](https://shop.yushakobo.jp/products/11447)（黒/キット・はんだ付け済み品）
@@ -36,4 +37,3 @@ Firmware for Vial
 ***
 
 ![](/doc/img/IMG_0915.jpg)
-
