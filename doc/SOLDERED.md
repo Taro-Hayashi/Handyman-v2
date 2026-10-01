@@ -18,7 +18,7 @@
 - Windows / Mac（iPad、Androidでも使用できますが設定にPCが必要です）
 
 ### 必要な工具
- - [精密ドライバー](https://amzn.to/48pxS1B0)
+ - [精密ドライバー](https://link.amazon/B06ysAoMe)
 
 ### 別売オプション
 - [専用リストレスト](https://tarohayashi.booth.pm/items/7544767)

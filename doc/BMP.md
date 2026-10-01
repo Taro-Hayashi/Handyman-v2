@@ -18,7 +18,7 @@
 - Handyman v2 本体
 - 無線化の袋
 - [データ転送に対応したType-C USBケーブル](https://amzn.to/3XS9qRu)
-- [精密ドライバー](https://amzn.to/48pxS1B0)
+- [精密ドライバー](https://link.amazon/B06ysAoMe)
 
 ### BMP BOOSTの設定
 BMP BOOSTをPCにUSBケーブルで接続し、Google ChromeでBLE Micro Pro Web Configuratorにアクセスします。

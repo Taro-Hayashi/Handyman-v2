@@ -8,7 +8,7 @@
 - [Cintiq Pro用インチネジアダプター](https://tarohayashi.booth.pm/items/7544767)
 
 ### 必要な工具
- - [精密ドライバー](https://amzn.to/48pxS1B0)
+ - [精密ドライバー](https://link.amazon/B06ysAoMe)
 
 ## 内用品の確認
 
