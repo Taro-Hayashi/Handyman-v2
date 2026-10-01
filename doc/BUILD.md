@@ -13,13 +13,16 @@
 ## 1. ご購入の前に
 ### 1.1 キット以外に必要なもの
 ![](./img/IMG_8596.jpg)
+
+リンクにはアフィリエイトリンクを含みます。
+
 <table>
     <tr>
-        <td><a href="https://amzn.to/485V3PD">Cherry MX互換のキースイッチ</a></td>
+        <td>Cherry MX互換のキースイッチ（<a href="https://shop.yushakobo.jp/collections/cherry-mx-clone">遊舎工房</a>、<a href="https://shop.talpkeyboard.com/collections/keyswitch?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>22</td>
     </tr>
     <tr>
-        <td><a href="https://shop.yushakobo.jp/products/dsa-blank-keycaps">キースイッチに対応したキーキャップ</a></td>
+        <td>キースイッチに対応したキーキャップ（<a href="https://shop.yushakobo.jp/products/dsa-blank-keycaps">遊舎工房</a>、<a href="https://shop.talpkeyboard.com/collections/keycaps?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>22</td>
     </tr>
     <tr>
@@ -59,7 +62,7 @@
     <tr>
       <td><a href="https://amzn.to/3M2pNsb">ニッパー</a></td>
       <td><a href="https://amzn.to/44etOjB">ピンセット</a></td>
-      <td><a href="https://amzn.to/48pxS1B0">精密ドライバー</a></td>
+      <td><a href="https://link.amazon/B06ysAoMe">精密ドライバー</a></td>
     </tr>
  </table>
 
@@ -86,6 +89,9 @@
 
 ### 袋1: 実装部品
 ![](./img/IMG_9366.jpg)
+
+リンクにはアフィリエイトリンクを含みます。
+
 <table>
     <tr>
         <th>番号</th>
@@ -113,19 +119,19 @@
     </tr>
     <tr>
         <td>4</td>
-        <td><a href="https://shop.yushakobo.jp/products/a0800di-01-100">ダイオード</a></td>
+        <td>ダイオード（<a href="https://shop.yushakobo.jp/products/a0800di-01-100">遊舎工房</a>、<a href="https://shop.talpkeyboard.com/products/59eadbffc8f22c15de001638?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>28</td>
         <td>1N4148</td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="https://shop.yushakobo.jp/products/a01ps">MXスイッチソケット</a></td>
+        <td>MXスイッチソケット（<a href="https://shop.yushakobo.jp/products/a01ps">遊舎工房</a>、<a href="https://shop.talpkeyboard.com/products/mx-kailh-pcbsocket-10?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>22</td>
         <td></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="https://akizukidenshi.com/catalog/g/g108073">リセットボタン</a></td>
+        <td>リセットボタン（<a href="https://akizukidenshi.com/catalog/g/g108073">秋月電子</a>、<a href="https://shop.talpkeyboard.com/products/ts-1136-4-3-tactsw-5?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>1</td>
         <td></td>
     </tr>
@@ -167,7 +173,7 @@
     </tr>
     <tr>
         <td>13</td>
-        <td><a href="https://shop.yushakobo.jp/products/10947">RP2040-Zero</a></td>
+        <td>RP2040-Zero（<a href="https://shop.yushakobo.jp/products/10947">遊舎工房</a>、<a href="https://shop.talpkeyboard.com/products/rp2040-zero-usb-c-compatible?ref=tarohayashi">TALPKEYBOARD</a>）</td>
         <td>1</td>
         <td></td>
     </tr>
